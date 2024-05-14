@@ -36,9 +36,9 @@
    inkscape:window-height="1009"
    id="namedview7302"
    showgrid="false"
-   inkscape:zoom="0.68917659"
-   inkscape:cx="264.80876"
-   inkscape:cy="160.33626"
+   inkscape:zoom="5.5134127"
+   inkscape:cx="235.97"
+   inkscape:cy="370.64158"
    inkscape:window-x="-8"
    inkscape:window-y="-5"
    inkscape:window-maximized="1"
@@ -451,7 +451,7 @@
    class="BackgroundObjects" />
   </g>
  </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(0,-1653.9837)"
    style="opacity:0.98"
    id="g6917">
         <rect
@@ -633,7 +633,7 @@
    d="m 4932,19928 h 6280"
    id="path6915" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(0,-1653.9837)"
    style="opacity:0.98"
    id="g6997">
         <rect
@@ -839,7 +839,7 @@
         
         
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(0,-1653.9837)"
    style="opacity:0.98"
    id="g7077">
         <rect
@@ -1021,7 +1021,7 @@
    d="m 9943,14905 h 6280"
    id="path7075" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(0,-1653.9837)"
    style="opacity:0.98"
    id="g7157">
         <rect
@@ -1203,7 +1203,7 @@
    d="m 9894,9883 h 6280"
    id="path7155" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(0,-1653.9837)"
    style="opacity:0.98"
    id="id3">
         <rect
@@ -1228,7 +1228,7 @@
    d="m 7431,17586 -432,-583 -264,376 z"
    id="path7165" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(0,-1653.9837)"
    style="opacity:0.98"
    id="id4">
         <rect
@@ -1255,7 +1255,7 @@
    id="path7174"
    sodipodi:nodetypes="cccc" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(0,-1653.9837)"
    style="opacity:0.98"
    id="id5">
         <rect
@@ -1279,25 +1279,232 @@
    stroke="none"
    d="m 12511,12633 230,-688 h -459 z"
    id="path7183" />
+       </g><g
+   transform="translate(1.4153248,-6794.8759)"
+   style="opacity:0.98"
+   id="g7157-9">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="9902"
+   y="7676"
+   width="6265"
+   height="2210"
+   id="rect7081-9" />
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 9904,7678 h 2310 v 735 H 9904 Z"
+   id="path7083-6" />
+        <text
+   class="TextShape"
+   id="text7091-1"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan7089-5"><tspan
+       class="TextPosition"
+       x="10412"
+       y="8185"
+       id="tspan7087-3"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan7085-0">commit</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 12214,7678 h 3950 v 735 h -3950 z"
+   id="path7093-5" />
+        <text
+   class="TextShape"
+   id="text7101-2"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan7099-5"><tspan
+       class="TextPosition"
+       x="13448"
+       y="8185"
+       id="tspan7097-6"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan7095-9">d10dd64</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 9904,8413 h 2310 v 735 H 9904 Z"
+   id="path7103-7" />
+        <text
+   class="TextShape"
+   id="text7111-3"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan7109-1"><tspan
+       class="TextPosition"
+       x="10708"
+       y="8920"
+       id="tspan7107-2"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan7105-3">date</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 12214,8413 h 3950 v 735 h -3950 z"
+   id="path7113-4" />
+        <text
+   class="TextShape"
+   id="text7121-9"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan7119-1"><tspan
+       class="TextPosition"
+       x="12667"
+       y="8920"
+       id="tspan7117-6"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan7115-7">21:01 06-07-2020</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 9904,9148 h 2310 v 735 H 9904 Z"
+   id="path7123-3" />
+        <text
+   class="TextShape"
+   id="text7131-8"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan7129-8"><tspan
+       class="TextPosition"
+       x="10344"
+       y="9655"
+       id="tspan7127-6"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan7125-6">message</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 12214,9148 h 3950 v 735 h -3950 z"
+   id="path7133-4" />
+        <text
+   class="TextShape"
+   id="text7141-1"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="423px"
+     font-weight="400"
+     id="tspan7139-0"><tspan
+       class="TextPosition"
+       x="13535"
+       y="9655"
+       id="tspan7137-1"><tspan
+         fill="#000000"
+         stroke="none"
+         id="tspan7135-5">Fix bug</tspan></tspan></tspan></text>
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 9894,7678 h 6280"
+   id="path7143-9" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 9904,7668 V 9893"
+   id="path7145-2" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 12214,7668 V 9893"
+   id="path7147-2" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 16164,7668 V 9893"
+   id="path7149-2" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 9894,8413 h 6280"
+   id="path7151-9" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 9894,9148 h 6280"
+   id="path7153-6" />
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="m 9894,9883 h 6280"
+   id="path7155-6" />
+       </g><g
+   transform="translate(1.4153248,-6794.8759)"
+   style="opacity:0.98"
+   id="id5-6">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="12281"
+   y="9786"
+   width="461"
+   height="2848"
+   id="rect7179-2" />
+        <path
+   fill="none"
+   stroke="#3465a4"
+   stroke-width="106"
+   stroke-linejoin="round"
+   d="m 12511,9839 v 2136"
+   id="path7181-2" />
+        <path
+   fill="#3465a4"
+   stroke="none"
+   d="m 12511,12633 230,-688 h -459 z"
+   id="path7183-9" />
        </g><rect
    class="BoundingBox"
    stroke="none"
    fill="none"
    x="18179"
-   y="9559.1826"
+   y="12205.018"
    width="10338"
    height="6004"
    id="rect7188"
    style="opacity:0.98" /><path
    fill="#b3b3b3"
    stroke="none"
-   d="m 18181,9561.1828 h 2992 v 1999.0002 h -2992 z"
+   d="m 18181,12207.017 h 2992 v 1999.001 h -2992 z"
    id="path7190"
    style="opacity:0.98" /><text
    class="TextShape"
    id="text7198"
    style="opacity:0.98"
-   y="-4299.8174"><tspan
+   y="-1653.9838"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1305,20 +1512,20 @@
      id="tspan7196"><tspan
        class="TextPosition"
        x="18776"
-       y="10258.183"
+       y="12904.018"
        id="tspan7194"><tspan
          fill="#158466"
          stroke="none"
          id="tspan7192">current</tspan></tspan></tspan></text><path
    fill="#b3b3b3"
    stroke="none"
-   d="m 21173,9561.1828 h 3111 v 1999.0002 h -3111 z"
+   d="m 21173,12207.017 h 3111 v 1999.001 h -3111 z"
    id="path7200"
    style="opacity:0.98" /><text
    class="TextShape"
    id="text7208"
    style="opacity:0.98"
-   y="-4299.8174"><tspan
+   y="-1653.9838"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1326,20 +1533,20 @@
      id="tspan7206"><tspan
        class="TextPosition"
        x="21863"
-       y="10258.183"
+       y="12904.018"
        id="tspan7204"><tspan
          fill="#158466"
          stroke="none"
          id="tspan7202">branch</tspan></tspan></tspan></text><path
    fill="#b3b3b3"
    stroke="none"
-   d="m 24284,9561.1828 h 4230 v 1999.0002 h -4230 z"
+   d="m 24284,12207.017 h 4230 v 1999.001 h -4230 z"
    id="path7210"
    style="opacity:0.98" /><text
    class="TextShape"
    id="text7218"
    style="opacity:0.98"
-   y="-4299.8174"><tspan
+   y="-1653.9838"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1347,25 +1554,25 @@
      id="tspan7216"><tspan
        class="TextPosition"
        x="25426"
-       y="10258.183"
+       y="12904.018"
        id="tspan7214"><tspan
          fill="#158466"
          stroke="none"
          id="tspan7212">commit</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 18181,11560.183 h 2992 v 1999 h -2992 z"
+   d="m 18181,14206.018 h 2992 v 1999 h -2992 z"
    id="path7220"
    style="opacity:0.98" /><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 21173,11560.183 h 3111 v 1999 h -3111 z"
+   d="m 21173,14206.018 h 3111 v 1999 h -3111 z"
    id="path7222"
    style="opacity:0.98" /><text
    class="TextShape"
    id="text7230"
    style="opacity:0.98"
-   y="-4299.8174"><tspan
+   y="-1653.9838"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1373,20 +1580,20 @@
      id="tspan7228"><tspan
        class="TextPosition"
        x="21880"
-       y="12257.183"
+       y="14903.018"
        id="tspan7226"><tspan
          fill="#158466"
          stroke="none"
          id="tspan7224">master</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 24284,11560.183 h 4230 v 1999 h -4230 z"
+   d="m 24284,14206.018 h 4230 v 1999 h -4230 z"
    id="path7232"
    style="opacity:0.98" /><text
    class="TextShape"
    id="text7240"
    style="opacity:0.98"
-   y="-4299.8174"><tspan
+   y="-1653.9838"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1394,25 +1601,25 @@
      id="tspan7238"><tspan
        class="TextPosition"
        x="25288"
-       y="12257.183"
+       y="14903.018"
        id="tspan7236"><tspan
          fill="#158466"
          stroke="none"
          id="tspan7234">d10dd64</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 18181,13559.183 h 2992 v 2001 h -2992 z"
+   d="m 18181,16205.018 h 2992 v 2001 h -2992 z"
    id="path7242"
    style="opacity:0.98" /><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 21173,13559.183 h 3111 v 2001 h -3111 z"
+   d="m 21173,16205.018 h 3111 v 2001 h -3111 z"
    id="path7252"
    style="opacity:0.98" /><text
    class="TextShape"
    id="text7260"
    style="opacity:0.98"
-   y="-4299.8174"><tspan
+   y="-1653.9838"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1420,20 +1627,20 @@
      id="tspan7258"><tspan
        class="TextPosition"
        x="22197"
-       y="14256.183"
+       y="16902.018"
        id="tspan7256"><tspan
          fill="#158466"
          stroke="none"
          id="tspan7254">idea</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 24284,13559.183 h 4230 v 2001 h -4230 z"
+   d="m 24284,16205.018 h 4230 v 2001 h -4230 z"
    id="path7262"
    style="opacity:0.98" /><text
    class="TextShape"
    id="text7270"
    style="opacity:0.98"
-   y="-4299.8174"><tspan
+   y="-1653.9838"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
@@ -1441,7 +1648,7 @@
      id="tspan7268"><tspan
        class="TextPosition"
        x="25322"
-       y="14256.183"
+       y="16902.018"
        id="tspan7266"><tspan
          fill="#158466"
          stroke="none"
@@ -1450,41 +1657,41 @@
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,9561.1828 H 28524"
+   d="M 18171,12207.017 H 28524"
    id="path7272"
    style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18181,9551.1828 V 15570.183"
+   d="m 18181,12197.017 v 6019.001"
    id="path7274"
    style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 28514,9551.1828 V 15570.183"
+   d="m 28514,12197.017 v 6019.001"
    id="path7280"
    style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,11560.183 H 28524"
+   d="M 18171,14206.018 H 28524"
    id="path7282"
    style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,13559.183 H 28524"
+   d="M 18171,16205.018 H 28524"
    id="path7284"
    style="opacity:0.98" /><text
    class="TextShape"
    id="text7250-9"
    style="opacity:0.98"
-   y="-5995.6689"
+   y="-3349.8359"
    x="5.8732691"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
@@ -1493,7 +1700,7 @@
      id="tspan7248-5"><tspan
        class="TextPosition"
        x="19523.881"
-       y="12560.33"
+       y="15206.165"
        id="tspan7246-7"><tspan
          fill="#158466"
          stroke="none"
@@ -1503,22 +1710,22 @@
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 21173,9551.1828 V 17585.825"
+   d="M 21173,12197.017 V 20231.66"
    id="path7276"
    style="opacity:0.98" /><path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 24284,9551.1829 V 17830.146"
+   d="m 24284,12197.018 v 8278.963"
    id="path7278"
    style="opacity:0.98" /><text
    xml:space="preserve"
    transform="scale(26.458333)"
    id="text1"
    style="font-size:7.86104px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#7e8080;stroke:#727070;stroke-width:3;stroke-linejoin:round" /><g
-   transform="translate(-2642.0426,-9442.0429)"
-   style="opacity:0.98"
+   transform="matrix(0.8840935,0,0,1.0211639,-1780.7414,-7168.418)"
+   style="opacity:0.98;stroke-width:29.7024"
    id="id4-3">
         <rect
    class="BoundingBox"
@@ -1528,19 +1735,21 @@
    y="14866"
    width="5134"
    height="2721"
-   id="rect7170-5" />
+   id="rect7170-5"
+   style="stroke-width:29.7024" />
         <path
    fill="none"
    stroke="#3465a4"
-   stroke-width="106"
+   stroke-width="111.56"
    stroke-linejoin="round"
-   d="M 12511,14919 8012,17281"
+   d="M 13944.005,10257.151 8012,17281"
    id="path7172-1"
    sodipodi:nodetypes="cc" />
         <path
    fill="#3465a4"
    stroke="none"
-   d="m 7431,17586 715,-117 -213,-405 z"
+   d="M 7620.9817,17656.492 8341.4098,17342.115 7933,17064 Z"
    id="path7174-8"
-   sodipodi:nodetypes="cccc" />
+   sodipodi:nodetypes="cccc"
+   style="stroke-width:29.7024" />
        </g></svg>
