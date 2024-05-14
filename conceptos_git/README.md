@@ -73,6 +73,7 @@ Cambia el diagrama para representar el nuevo estado del repositorio: tanto el gr
 ##### Respuesta 2
 
 ![ejercicio_git_2](media/ejercicio_git_2.svg)
+![ejercicio_git_2](media/Ej_2.png)
 
 #### Pregunta 3
 
@@ -90,3 +91,4 @@ Jon Ander was here2
 ##### Respuesta 3
 
 ![ejercicio_git_3](media/ejercicio_git_3.svg)
+![ejercicio_git_3](media/Ej_3.png)
